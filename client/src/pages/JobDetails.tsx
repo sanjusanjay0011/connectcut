@@ -1,3 +1,4 @@
+import Dialog from '../components/ui/dialog';
 import { useState } from "react";
 import { Link, useLocation, useParams } from "wouter";
 import { useQuery } from "@tanstack/react-query";

@@ -1,3 +1,4 @@
+import Skeleton from '../components/ui/skeleton';
 import { Link, useParams } from "wouter";
 import { useQuery } from "@tanstack/react-query";
 import { Button } from "@/components/ui/button";
